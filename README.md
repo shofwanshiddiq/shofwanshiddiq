@@ -1,7 +1,7 @@
 ##  Hi, I'm Shofwan👋
 
 - 💻 Full-Stack Web Developer
-- 🖥️ Currently working at <b>PT Minova Infotech Solutons </b> (https://www.minovais.com)
-- 💬 Currently learning backend golang development at <b>dibimbing </b>
-- 💡 Founder of <b>Enchantre Digital Invitation</b>  (https://www.enchantre.com)
+- 🖥️ Currently working at [PT Minova Infotech Solutons](https://www.minovais.com)
+- 💬 Currently learning backend golang development at [Dibimbing](https://dibimbing.id/)
+- 💡 Founder of [Enchantre Digital Invitation](https://www.enchantre.com)
 
